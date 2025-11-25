@@ -1,3 +1,5 @@
+See: https://github.com/honojs/node-server/issues/287
+
 # Error uploading Chinese files to node-server with Postman
 
 In "upload-node", using Postman to upload Chinese files fails.
